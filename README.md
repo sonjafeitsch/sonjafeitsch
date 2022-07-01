@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻 I'm Sonja and I'm working as a software developer and UX designer in Würzburg. My interests are component libraries, design systems, React, Typescript and other technologies for developing cool frontends. My passion is to develop inspiring user interfaces, from the design to the line of code.
+👩‍💻 I'm Sonja and I'm working as a frontend developer in Würzburg. My interests are component libraries, design systems, React, Typescript and other technologies for developing cool frontends. My passion is to develop inspiring user interfaces, from the design to the line of code.
 
 ⚡ Facts about me:
 - When I was at school, I thought that I would never work as a software developer.
