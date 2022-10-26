@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![octocat-1666764285557](https://user-images.githubusercontent.com/11174579/197947306-0346a39d-d6bc-4b13-88b3-4b2f134111aa.png)
-
 👩‍💻 I'm Sonja and I'm working as a frontend developer in Würzburg. My interests are component libraries, design systems, React, Typescript and other technologies for developing cool frontends. My passion is to develop inspiring user interfaces, from the design to the line of code.
 
 ⚡ Facts about me:
