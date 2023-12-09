@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👩‍💻 I'm Sonja and I'm working as a frontend developer in Würzburg. My interests are component libraries, design systems, React, Typescript and other technologies for developing cool frontends. My passion is to develop inspiring user interfaces, from the design to the line of code.
+👩‍💻 I am Sonja and I am working as a frontend developer in Würzburg. My interests are React, Typescript, design systems and component libraries and other technologies for frontend developing. My passion is to develop inspiring user interfaces, from the design to the line of code.
 
 ⚡ Facts about me:
-- When I was at school, I thought that I would never work as a software developer.
-- I love to draw. That's why I sweeten my daily office life with colorful sketch notes.
+- When I went to school, I wasn't interested in computer science.
+- Weather knitting or drawing I like to be creative.
 - I like hiking, perferably in the Alps or in Scotland.
 
 <!--
